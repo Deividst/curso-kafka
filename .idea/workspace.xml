@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8724ac4b-587e-47ab-b9ed-7ef87247c0f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XP57q13U3wM63RzNFrf6NNv5dA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/common-kafka/src/main/java" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/kafka-introducao-e-microservicos-aula1/video1.5/ecommerce" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.alura.ecommerce" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura.ecommerce" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.alura.ecommerce" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LogService">
+    <configuration name="EmailService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.ecommerce.EmailService" />
+      <module name="service-email" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FroudDetectorService (1)" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.ecommerce.FroudDetectorService" />
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FroudDetectorService" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.ecommerce.FroudDetectorService" />
+      <module name="service-fraud-detector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FroudDetectorService" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.ecommerce.FroudDetectorService" />
+      <module name="service-fraud-detector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.ecommerce.LogService" />
+      <module name="service-log" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewOrderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.ecommerce.NewOrderMain" />
+      <module name="service-new-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FroudDetectorService (1)" />
+      <item itemvalue="Application.EmailService" />
+      <item itemvalue="Application.FroudDetectorService" />
+      <item itemvalue="Application.LogService" />
+      <item itemvalue="Application.NewOrderMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LogService" />
+        <item itemvalue="Application.NewOrderMain" />
+        <item itemvalue="Application.EmailService" />
+        <item itemvalue="Application.FroudDetectorService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8724ac4b-587e-47ab-b9ed-7ef87247c0f2" name="Default Changelist" comment="" />
+      <created>1580934724508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580934724508</updated>
+      <workItem from="1580934726193" duration="4587000" />
+      <workItem from="1581004586453" duration="7652000" />
+      <workItem from="1581099567213" duration="8620000" />
+      <workItem from="1581253190202" duration="1204000" />
+      <workItem from="1581272878093" duration="11013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="847" height="677" key="#Project_Structure" timestamp="1581118567791">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="847" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1581118567791" />
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581103541432">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581103541432" />
+    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1581289848435">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1581289848435" />
+    <state x="746" y="413" width="741" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581292193390">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="746" y="413" width="741" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1853.1053@67.27.1853.1053" timestamp="1581292193390" />
+    <state x="684" y="87" width="608" height="930" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581275005494">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="684" y="87" width="608" height="930" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581275005494" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581294505256">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581294505256" />
+    <state x="771" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581099928703">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="771" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581099928703" />
+    <state width="1807" height="344" key="GridCell.Tab.0.bottom" timestamp="1581294735554">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581294735554" />
+    <state width="1807" height="344" key="GridCell.Tab.0.center" timestamp="1581294735554">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581294735554" />
+    <state width="1807" height="344" key="GridCell.Tab.0.left" timestamp="1581294735553">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581294735553" />
+    <state width="1807" height="344" key="GridCell.Tab.0.right" timestamp="1581294735554">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581294735554" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1581294735554">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581294735554" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1581294735554">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581294735554" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1581294735554">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581294735554" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1581294735554">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581294735554" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1581274800297">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1581274800297" />
+    <state x="765" y="332" width="446" height="440" key="chooseDestDirectoryDialog" timestamp="1581292189334">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="765" y="332" width="446" height="440" key="chooseDestDirectoryDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581292189334" />
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581114340154">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581114340154" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581273159929">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581273159929" />
+    <state x="726" y="307" width="524" height="491" key="extract.method.dialog" timestamp="1581031746815">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="307" width="524" height="491" key="extract.method.dialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581031746815" />
+    <state x="302" y="250" width="1372" height="605" key="new project wizard" timestamp="1581292162809">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="250" width="1372" height="605" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1581292162809" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ecommerce$FroudDetectorService.ic" NAME="FroudDetectorService Coverage Results" MODIFIED="1581032243154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.alura.ecommerce.*</FILTER>
+    </SUITE>
+  </component>
+</project>
